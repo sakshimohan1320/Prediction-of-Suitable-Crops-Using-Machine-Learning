@@ -59,3 +59,12 @@ The system integrates multiple machine learning algorithms, compares their perfo
 
 Under the guidance of:
 - Dr. Himangi Pande
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+MIT License:
+
